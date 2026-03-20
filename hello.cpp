@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
   cout<<"hello";
+  cout<<"this is my first commit";
 }
 
   
